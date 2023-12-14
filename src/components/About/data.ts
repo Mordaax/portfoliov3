@@ -4,17 +4,17 @@ export const about: Content[] = [
   {
     title: 'Background',
     content:
-      "Hi I'm Cyrus, a 3rd Year Cybersecurity and Digital Forensics student currently Interning at KPMG Singapore Cyber Defence Team. Welcome to my digital space, where creativity meets functionality.",
+      "Hi I'm Cyrus, a 3rd Year Cybersecurity and Digital Forensics student currently Interning at KPMG Singapore Cyber Defence Team. Welcome to my digital space.",
   },
   {
     title: 'Skills',
     content:
-      "Programming and Software development, Penetration Testing, Malware analysis, Networking and Computer Administration, App and Web development among other things",
+      "Programming and Software development, Penetration Testing, Malware analysis, Computer Networking, App and Web development among other things",
   },
   {
     title: 'Now',
     content:
-      'Chilling',
+      'Trying Harder',
   },
 ]
 
@@ -37,8 +37,29 @@ export const work: Content[] = [
   {
     title: 'TansportMe',
     content:
-      'A feature rich bus app for Singporeans',
-    href: 'https://play.google.com/store/apps/details?id=sg.edu.np.mad.transportme',
+      'A feature rich bus app for Singporeans built with Java Android Studio',
+    href: 'https://github.com/Mordaax/transport-me',
+    newTab: true,
+  },
+  {
+    title: 'Cloudio',
+    content:
+      'Just another hosting platform built with NextJS, PrismaJS, PostgreSQL, TailwindCSS, Django, Google Cloud Platform, Digital Ocean, Nginx',
+    href: 'https://cloud.cyrustrx.com',
+    newTab: true,
+  },
+  {
+    title: 'Simple Chess',
+    content:
+      'Online chess game, bot using the minimax algorithm, built with Python Flask, ChessboardJS, Vercel',
+    href: 'https://chess.cyrustrx.com',
+    newTab: true,
+  },
+  {
+    title: 'Cave Explorer',
+    content:
+      'A game I made a long time ago, built with Gamemaker',
+    href: 'https://github.com/Mordaax/cave-explorer',
     newTab: true,
   },
 /*   {

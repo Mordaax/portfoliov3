@@ -21,7 +21,7 @@ const About: FC = () => (
       
     </div>
     <Section content={data.about} id='about'>
-      <h1 className={styles.title}>About</h1>
+      <h2 className={styles.title}>About</h2>
     </Section>
 
     <Section
@@ -77,7 +77,16 @@ const About: FC = () => (
           • The Christeria Programme: Took part in the Youth Exploration Program, Temasek Foundation Scale Program, and TCP Camp, which provided me with a wide-ranging and diverse set of experiences, and also facilitated the development of crucial life skills such as effective time management and networking.
           <br/>
           <br/>
-          Other Activities: Overflow, Nullsec, Orion Student Interest Group, Chess Club</p>
+          Other Activities: Overflow, Nullsec, Orion Student Interest Group, Chess Club
+          <br/>
+          <br/>
+          Awards
+          <br/>
+          • AISP Student Volunteer Recognition Programme Silver 2022-2023
+          <br/>
+          • Govware Singapore Youth Cyber Conquest, DSTA Cyber Discovery Camp 2021-2023 (~Top 10)
+          
+          </p>
           </div>
       </div>
         
@@ -111,6 +120,14 @@ const About: FC = () => (
 
             <br/>
           • Sports Leader
+          <br/>
+          <br/>
+          Awards
+          <br/>
+          • CITI YMCA Youth For Causes Distinction award 2020
+          <br/>
+          • Singapore Junior Physics Olympiad Bronze 2020
+        
           </p>
           </div>
       </div>
