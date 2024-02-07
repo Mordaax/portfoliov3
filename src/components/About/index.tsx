@@ -157,7 +157,7 @@ const About: FC = () => (
           
           
           </div>
-          <p>• Conducted vulnerability assessment and picked up different skills such as Network, Web VAPT</p>
+          <p>• Conducted vulnerability assessment and penetration testing on different applications including Web and Mobile</p>
           </div>
       </div>
         
