@@ -157,7 +157,9 @@ const About: FC = () => (
           
           
           </div>
-          <p>• Conducted vulnerability assessment and penetration testing on different applications including Web and Mobile</p>
+          <p>• Conducted vulnerability assessment and penetration testing on different applications including Web, API and Mobile</p>
+          <p>• Contributed throughout the entire project lifecycle, initiating penetration testing, creating operation logs, and generating final reports. </p>
+          <p>• Reports offered detailed and insightful remediation recommendations guided by thorough testing. </p>
           </div>
       </div>
         
@@ -321,11 +323,11 @@ const Map: FC = () => {
         <p className={styles.town}>
           <FiMapPin />
           <a
-            href='https://en.wikipedia.org/wiki/Forney,_Texas'
+            href='https://en.wikipedia.org/wiki/Location'
             target='_blank'
             rel='noreferrer'
           >
-            Forney, Texas
+            Location
           </a>
         </p>
       </div>
