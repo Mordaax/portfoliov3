@@ -25,7 +25,7 @@ const Home: FC = () => {
             
           </p>
           <p>
-          Exploring the realm of cybersecurity while creating secure and practical solutions. Eager to contribute positively to the ever-changing technology landscape.</p>
+          Constantly exploring the realm of cybersecurity while creating secure and practical solutions. Eager to contribute positively to the ever-changing technology landscape.</p>
           <svg
             aria-hidden='true'
             width='80'
@@ -49,7 +49,7 @@ const Home: FC = () => {
             . 
           </p>
           <p>
-            <a href='https://docs.google.com/document/d/1HVFeHmZUQ3DAyzRX2cye6gSHvp3JwB2EFXcdZoSi-Xw/edit?usp=sharing' target='_blank' rel='noreferrer'>
+            <a href='https://docs.google.com/document/d/15LMAz_YARH3l6AFAWDZAP2WvbFwPPU7D/edit?usp=sharing&ouid=108308985790657492155&rtpof=true&sd=true' target='_blank' rel='noreferrer'>
               View Resume
             </a>
           </p>

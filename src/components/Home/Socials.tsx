@@ -25,37 +25,7 @@ export const Socials: FC = () => {
           icon: FiLinkedin,
           href: 'https://www.linkedin.com/in/cyrus-tan-889b0a210/',
         },
-        /* {
-          aria: 'Twitter',
-          icon: FiTwitter,
-          href: 'https://twitter.com/Mordaax',
-        },
-        {
-          aria: 'Dribbble',
-          icon: FiDribbble,
-          href: 'https://dribbble.com/Mordaax',
-        },
         
-        {
-          aria: 'YouTube',
-          icon: FiYoutube,
-          href: 'https://www.youtube.com/@Mordaax',
-        },
-        {
-          aria: 'Instagram',
-          icon: FiInstagram,
-          href: 'https://www.instagram.com/haaarshsingh',
-        },
-        {
-          aria: 'Discord',
-          icon: RxDiscordLogo,
-          href: 'https://discord.com/users/518432133111611397',
-        },
-        {
-          aria: 'Snapchat',
-          icon: RiSnapchatLine,
-          href: 'https://snapchat.com/add/harshhhhsingh',
-        }, */
       ].map((link, index) => (
         <a
           href={link.href}
