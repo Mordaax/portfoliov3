@@ -4,7 +4,7 @@ export const about: Content[] = [
   {
     title: 'Background',
     content:
-      "Hi I'm Cyrus, a 3rd Year Cybersecurity and Digital Forensics student currently Interning at KPMG Singapore Cyber Defence Team. Welcome to my digital space.",
+      "Hi I'm Cyrus, I am currently looking for internships before I embark on my National Service. Welcome to my digital space.",
   },
   {
     title: 'Skills',
