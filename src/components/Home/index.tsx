@@ -20,8 +20,9 @@ const Home: FC = () => {
         <div className={styles.info}>
          
           <h1>Hi im Cyrus — Aspiring Developer 👋</h1>
+          
           <p className={styles.pronounce}>
-            I make and break things  {' '}
+            Offensive Security Certified Professional (OSCP) - I make and break things  {' '}
             
           </p>
           <p>

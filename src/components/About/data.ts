@@ -18,6 +18,19 @@ export const about: Content[] = [
   },
 ]
 
+
+export const certifications: Content[] = [
+  {
+    title: 'Offensive Security Certified Professional',
+    content:"",
+  },
+  {
+    title: 'Red Hat Certified System Administrator',
+    content:
+      "",
+  }
+]
+
 export const education: Content[] = [
   {
     title: 'Background',

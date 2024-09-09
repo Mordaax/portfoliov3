@@ -23,7 +23,9 @@ const About: FC = () => (
     <Section content={data.about} id='about'>
       <h2 className={styles.title}>About</h2>
     </Section>
-
+    <Section content={data.certifications} id='Certifications'>
+      <h2 className={styles.title}>Certifications</h2>
+    </Section>
     <Section
       content={data.work}
       extend={{
@@ -74,7 +76,7 @@ const About: FC = () => (
           <br/>
           • Certificate in Advanced Computing Mathamatics 
           <br/>
-          • The Christeria Programme: Took part in the Youth Exploration Program, Temasek Foundation Scale Program, and TCP Camp, which provided me with a wide-ranging and diverse set of experiences, and also facilitated the development of crucial life skills such as effective time management and networking.
+          • The Christeria Programme: Took part in the Youth Exploration Program, Temasek Foundation Scale Program, and TCP Camp, which provided me with a wide-ranging and diverse set of experiences
           <br/>
           <br/>
           Other Activities: Overflow, Nullsec, Orion Student Interest Group, Chess Club
