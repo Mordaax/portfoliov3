@@ -50,7 +50,7 @@ const Home: FC = () => {
             . 
           </p>
           <p>
-            <a href='https://docs.google.com/document/d/15LMAz_YARH3l6AFAWDZAP2WvbFwPPU7D/edit?usp=sharing&ouid=108308985790657492155&rtpof=true&sd=true' target='_blank' rel='noreferrer'>
+            <a href='https://docs.google.com/document/d/1ENuSY1bYlxSJUjXQh3vD8GhQaPJP5hYk/edit?usp=sharing&ouid=108308985790657492155&rtpof=true&sd=true' target='_blank' rel='noreferrer'>
               View Resume
             </a>
           </p>
